@@ -22,7 +22,7 @@ def calculate_student_score2(chinese, history, geography):
         return "及格"
     else:
         return "不及格"
-
+# 强制触发 CodeQL 扫描
 # 未使用变量
 unused_variable = "我从来没被用过"
 
